@@ -7,18 +7,18 @@ Actualmente, trabajo en proyectos académicos y personales, enfocados en fortale
 
 Tecnologías y herramientas
 
-Node.js
-React.js
-Redux
-SQL
-Next.js
-JavaScript
-TypeScript
-Tailwind CSS
-HTML
-CSS
-Git
-Contacto
+- Node.js
+- React.js
+- Redux
+- SQL
+- Next.js
+- JavaScript
+- TypeScript
+- Tailwind CSS
+- HTML
+- CSS
+- Git
+Contacto: 
 Correo: juan.21futmas07@gmail.com
 LinkedIn: linkedin.com/in/juan-camilo-lopez-contreras-74a921326
 
