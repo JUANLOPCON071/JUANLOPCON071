@@ -18,7 +18,9 @@ Tecnologías y herramientas
 - HTML
 - CSS
 - Git
+  
 Contacto: 
+
 Correo: juan.21futmas07@gmail.com
 LinkedIn: linkedin.com/in/juan-camilo-lopez-contreras-74a921326
 
