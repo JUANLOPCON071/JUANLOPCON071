@@ -5,7 +5,7 @@ Desde hace varios años inicié mi camino en el mundo de la tecnología, comenza
 
 Actualmente, trabajo en proyectos académicos y personales, enfocados en fortalecer mis conocimientos y adquirir nuevas tecnologías que me permitan avanzar en mi formación como desarrollador. Mi objetivo es convertirme en un profesional Full Stack competente, capaz de aportar valor y soluciones innovadoras en el mercado laboral.
 
-Tecnologías y herramientas
+## Tecnologías y herramientas
 
 - Node.js
 - React.js
